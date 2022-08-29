@@ -55,7 +55,7 @@
     "@11ty/eleventy-cache-assets": "^2.3.0",
     "algoliasearch": "^4.8.6",
     "babel-eslint": "^10.0.3",
-    "firebase": "^9.0.0-beta.7",
+    "firebase": "^9.9.2",
     "focus-visible": "^5.0.2",
     "idb-keyval": "^3.2.0",
     "image-size": "^0.9.3",
